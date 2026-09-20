@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 168" width="1160" height="168" role="img">
+  <style>
+    .p:hover .bd { stroke: #E0AF68; stroke-opacity: .55 }
+    .bd { transition: stroke-opacity .35s ease, stroke .35s ease }
+  </style>
+  <g class="p">
+  <rect x="0.5" y="0.5" width="1159" height="167" rx="8" fill="#11131A"/>
+  <path d="M0.5 8.5 a8 8 0 0 1 8-8 H16 V167.5 H8.5 a8 8 0 0 1-8-8 Z" fill="#E0AF68" opacity="0.75"/>
+  <rect class="bd" x="0.5" y="0.5" width="1159" height="167" rx="8" fill="none" stroke="#232733" stroke-opacity="1"/>
+  <text x="46" y="53" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#E0AF68">Investi</text>
+  <text x="152.2" y="52" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#565F89">// AI analysis for the Tunis stock exchange (BVMT)</text>
+  <rect x="1004.3" y="38" width="109.7" height="20" rx="10" fill="#E0AF68" opacity="0.10"/><text x="1059.15" y="52" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#E0AF68" opacity="0.9">team · ESPRIT</text>
+  <text x="46" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="14" fill="#A9B1D6" opacity="0.82">EfficientNet-B0 reads candlestick images into UP/DOWN/NEUTRAL, a four-agent CrewAI pipeline argues with the</text>
+  <text x="46" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="14" fill="#A9B1D6" opacity="0.82">result, CamemBERT scores the news, Chronos-T5 forecasts five days out. I built D7 — portfolio optimisation.</text>
+  <rect x="46" y="122" width="71.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="81.5" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">PyTorch</text>
+  <rect x="125.0" y="122" width="64.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="157.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">CrewAI</text>
+  <rect x="197.0" y="122" width="64.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="229.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">Gemini</text>
+  <rect x="269.0" y="122" width="92.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="315.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">Chronos-T5</text>
+  <rect x="369.0" y="122" width="85.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="411.5" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">CamemBERT</text>
+  <rect x="462.0" y="122" width="64.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="494.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">Django</text>
+  <rect x="534.0" y="122" width="57.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="562.5" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">React</text>
+  <rect x="599.0" y="122" width="57.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="627.5" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">Tauri</text>
+  <rect x="664.0" y="122" width="64.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="696.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">Celery</text>
+  </g>
+</svg>

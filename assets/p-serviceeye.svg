@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 168" width="1160" height="168" role="img">
+  <style>
+    .p:hover .bd { stroke: #9ECE6A; stroke-opacity: .55 }
+    .bd { transition: stroke-opacity .35s ease, stroke .35s ease }
+  </style>
+  <g class="p">
+  <rect x="0.5" y="0.5" width="1159" height="167" rx="8" fill="#11131A"/>
+  <path d="M0.5 8.5 a8 8 0 0 1 8-8 H16 V167.5 H8.5 a8 8 0 0 1-8-8 Z" fill="#9ECE6A" opacity="0.75"/>
+  <rect class="bd" x="0.5" y="0.5" width="1159" height="167" rx="8" fill="none" stroke="#232733" stroke-opacity="1"/>
+  <text x="46" y="53" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#9ECE6A">restaurant-monituring</text>
+  <text x="328.59999999999997" y="52" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#565F89">// ServiceEye — a dining room, made legible</text>
+  <rect x="1059.5" y="38" width="54.5" height="20" rx="10" fill="#9ECE6A" opacity="0.10"/><text x="1086.75" y="52" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9ECE6A" opacity="0.9">award</text>
+  <text x="46" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="14" fill="#A9B1D6" opacity="0.82">Zone-based detection turns cameras into occupancy, dwell time and table state; the dashboard</text>
+  <text x="46" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="14" fill="#A9B1D6" opacity="0.82">changes while you are looking at it. Smart Service Award, Global AI Congress Africa.</text>
+  <rect x="46" y="122" width="64.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="78.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">YOLOv8</text>
+  <rect x="118.0" y="122" width="64.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="150.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">OpenCV</text>
+  <rect x="190.0" y="122" width="71.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="225.5" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">FastAPI</text>
+  <rect x="269.0" y="122" width="57.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="297.5" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">React</text>
+  <rect x="334.0" y="122" width="92.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="380.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">PostgreSQL</text>
+  <rect x="434.0" y="122" width="92.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="480.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">WebSockets</text>
+  <rect x="534.0" y="122" width="64.0" height="24" rx="5" fill="#161A23" stroke="#232733"/><text x="566.0" y="139" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8B93B0">Docker</text>
+  </g>
+</svg>
