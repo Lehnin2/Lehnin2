@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 156" width="1160" height="156" role="img">
+  <defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
+    <feColorMatrix type="saturate" values="0"/>
+  </filter>
+</defs>
+  <style>
+    .card:hover .edge { stroke: #2A2F35; }
+    .edge { transition: stroke .5s ease; }
+  </style>
+  <g class="card">
+  <rect width="1160" height="156" fill="#0E0F11"/>
+  <rect width="1160" height="156" filter="url(#grain)" opacity="0.042"/>
+  <rect class="edge" x="0.5" y="0.5" width="1159" height="155" fill="none" stroke="#191C1F" stroke-dasharray="18 2"/>
+
+  <text x="44" y="62" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.22em" fill="#33383D">04 / 03</text>
+  <rect x="100" y="36" width="1" height="84" fill="#191C1F"/>
+
+  <text x="132" y="62" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif" font-size="25" fill="#E7E3DA" opacity="0.944">Automated-Comliance-Check</text>
+  
+  <text x="132" y="88" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif" font-size="14.5" fill="#8A9096" opacity="0.895">Financial slide decks, read by something that does not get bored. Agents take the deck apart,</text>
+  <text x="132" y="108" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif" font-size="14.5" fill="#8A9096" opacity="0.895">hold it against the rules, and leave behind a trace of how each decision was reached.</text>
+  <text x="132" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.10em" fill="#565C63" opacity="0.895">LangGraph</text>
+  <text x="205.9" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#33383D">&#183;</text>
+  <text x="219.9" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.10em" fill="#565C63" opacity="0.895">Gemini</text>
+  <text x="272.5" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#33383D">&#183;</text>
+  <text x="286.5" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.10em" fill="#565C63" opacity="0.895">Groq</text>
+  <text x="324.9" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#33383D">&#183;</text>
+  <text x="338.9" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.10em" fill="#565C63" opacity="0.895">FastAPI</text>
+  <text x="398.59999999999997" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#33383D">&#183;</text>
+  <text x="412.59999999999997" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.10em" fill="#565C63" opacity="0.895">React</text>
+
+  <rect x="1116" y="36" width="1" height="84" fill="#191C1F"/>
+  <rect x="1116" y="66.2" width="1" height="53.8" fill="#8A9096" opacity="0.895"/>
+  </g>
+</svg>
